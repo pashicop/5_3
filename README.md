@@ -1,6 +1,6 @@
 # 5_3
 # 1
-Сделал, добавил тег <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />, чтобы апостроф отображался корректно.
+Сделал, добавил тег `<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />`, чтобы апостроф отображался корректно.
 `https://hub.docker.com/repository/docker/pashicop/new-index`
 
 # 2
